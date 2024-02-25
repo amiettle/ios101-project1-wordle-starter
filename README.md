@@ -25,9 +25,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<a href="https://www.youtube.com/embed/5beNOxWawQU" target="_blank" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen >
- <img src="http://img.youtube.com/vi/5beNOxWawQU/mqdefault.jpg" alt="Video Thumbnail" width="366" height="651" />
-</a>
+[![Demo Video](https://img.youtube.com/vi/5beNOxWawQU/mqdefault.jpg)](https://youtu.be/5beNOxWawQU)
 
 ## Notes
 
